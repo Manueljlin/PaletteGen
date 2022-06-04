@@ -22,13 +22,13 @@ The code is probably ...not the best, but I guess it gets the job done.
 
 A few example commands:
 
-1. `node palette_gen.js --h=80 --s=0.75 -H --width=12 --height=2`<br>
+1. `node palettegen.js --h=80 --s=0.75 -H --width=12 --height=2`<br>
     ![Complex example with hidden text and custom saturation and size](./img/example1.png)
 
-2. `node palette_gen.js --h=170`<br>
+2. `node palettegen.js --h=170`<br>
     ![Basic example of just setting the hue](./img/example2.png)
 
-3. `node oklab_gen.js --h=70 --mil=0.75`
+3. `node palettegen.js --h=70 --mil=0.75`
     ![Example of limited lightness range](./img/example3.png)
 
 
