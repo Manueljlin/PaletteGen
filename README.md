@@ -1,4 +1,6 @@
 # PaletteGen
+or *"Palette (not the ffmpeg thing) Gen"*
+
 Simple palette generator using [Oklab](https://bottosson.github.io/posts/oklab/) (or [Okhsl](https://bottosson.github.io/posts/colorpicker/#okhsl), technically).
 The code is probably ...not the best, but I guess it gets the job done.
 
